@@ -39,6 +39,15 @@ Cheat sheets:
 
 --------------------------------------------------------------------
 
+Website animations:
+
+Animate on scroll:
+https://youtu.be/ptfUwPJbGlQ
+
+Scrolling SVG:
+https://youtu.be/FJ44qmE5odc
+
+--------------------------------------------------------------------
 
 Bootstrap terminologies:
 
