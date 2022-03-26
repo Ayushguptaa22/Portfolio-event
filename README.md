@@ -19,7 +19,11 @@ Learn CSS:  https://youtu.be/yfoY53QXEnI
 
 Learn Bootstrap(in action): https://www.youtube.com/watch?v=4sosXZsdy-s&t=839s
 
-Grid system for planning a website: https://www.youtube.com/watch?v=Wqu-d_b3K-0
+--------------------------------------------------------------------
+
+Grid system for planning a website: 
+
+https://www.youtube.com/watch?v=Wqu-d_b3K-0
 
 https://www.youtube.com/watch?v=0xMQfnTU6oo
 
@@ -35,6 +39,12 @@ Cheat sheets:
 
 --------------------------------------------------------------------
 
+
+Bootstrap terminologies:
+
+https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
+
+--------------------------------------------------------------------
 
 Website and project hosting:
 
